@@ -1,15 +1,12 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
+# Quizzler Challenge
 
-# Quizzler Challenge - Starting Files
+- Simple flutter project for studying basic OOP elements of Dart in a real functional app.
 
-- Clone this repository to your local system.
+- A quiz app of true/false questions with dynamic UI update for keeping a score.
 
-- Read the docs for the package we're using:
+- This includes classes managements, basic implementation of abstraction, encapsulation, inheritance and polymorphism. Some perks about constructors and lists management.
 
-[rFluttter Alert](https://pub.dartlang.org/packages/rflutter_alert)
-
-- Follow the step by step challenges.
 
 
 
